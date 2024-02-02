@@ -1,1 +1,1 @@
-LDSC nd post-processing
+LDSC and post-processing
